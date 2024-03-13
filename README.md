@@ -1,3 +1,36 @@
+### Screenshots
+
+- all-student_post_optimize
+![all-student_post_optimize](/images/all-student-name_post_optimize.png)
+
+- all-student_pre_optimize
+![all-student_pre_optimize](/images/all-student-name_pre_optimize.png)
+
+- all-student-name_post_optimize
+![all-student-name_post_optimize](/images/all-student_post_optimize.png)
+
+- all-student-name_pre_optimize
+![all-student-name_pre_optimize](/images/all-student_pre_optimize.png)
+
+- CLI_all-student_pre_optimize
+![CLI_all-student_pre_optimize](/images/CLI_all-student_pre_optimize.png)
+
+- CLI_all-student-name_pre_optimize
+![CLI_all-student-name_pre_optimize](/images/CLI_all-student-name_pre_optimize.png)
+
+- CLI_highest-gpa_pre_optimize
+![CLI_highest-gpa_pre_optimize](/images/CLI_highest-gpa_pre_optimize.png)
+
+- flame_graph_profile_post_optimize
+![flame_graph_profile_post_optimize](/images/flame_graph_profile_post_optimize.png)
+
+- highest-gpa_post_optimize
+![highest-gpa_post_optimize](/images/highest-gpa_post_optimize.png)
+
+- highest-gpa_pre_optimize
+![highest-gpa_pre_optimize](/images/highest-gpa_pre_optimize.png)
+
+
 ### Performance Test Results
 
 > After the profiling and performance optimization process is completed, perform a performance test again using JMeter, see the results, and compare with the first measurement. Is there an improvement from JMeter measurements? Write your conclusion in the README.md file.
